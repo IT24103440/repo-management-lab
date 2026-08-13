@@ -1,1 +1,4 @@
-"Repository Management Lab" 
+Repository Management Lab
+
+Notes
+This repository demonstrates Git workflow using the main branch.
