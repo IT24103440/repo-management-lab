@@ -1,0 +1,2 @@
+This repository is created for practicing Git and GitHub repository management.
+It demonstrates repository initialization, branching, merging, and conflict resolution.
